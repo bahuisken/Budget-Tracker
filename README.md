@@ -2,7 +2,7 @@
 
 ## Description
 
-An application that allows a user to manage thier expenses, wether they are online or offline.
+An application that allows a user to manage their expenses, whether they are online or offline.
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important.
 
